@@ -20,9 +20,9 @@ We have allocated time on your schedule to ensure that you get this done at the 
 This needs to be completed along with your Journal Entry for the Unit.
 [Here is a link to the prompt for the script](https://www.notion.so/lambdaschool/Unit-1-Presentation-Script-4e2ef6551424417bb3c3b2a4406a272d). Complete your work in a google doc and submit a link to your response in your journal entry for this sprint challenge.
 
-## Template: Decision Defense
+## Template: Contribution Entry
 
-Please respond to the following prompts to demonstrate your understanding of product vision planning sessions.
+Please respond to the following prompts to demonstrate your contributions to the delivery process and development cycle of your product.
 
 Copy and paste these prompts into a `Google Doc`. Steps on how to create a google doc folder, and how this should look [can be found here](https://www.notion.so/lambdaschool/Labs-Journal-Entry-Submission-Logistics-a6003eb8288b4fd1af0fb40a1a42d278)
 
