@@ -15,6 +15,11 @@ We have allocated time on your schedule to ensure that you get this done at the 
 - For Full Time Students: Please submit your work on this journal entry before 12pm PST every Friday.
 - For Part Time Students: Please submit your work on this journal entry before the end of your B-Week Thursday class period.
 
+## Unit 1 Presentation Script:
+
+This needs to be completed along with your Journal Entry for the Unit.
+[Here is a link to the prompt for the script](https://www.notion.so/lambdaschool/Unit-1-Presentation-Script-4e2ef6551424417bb3c3b2a4406a272d). Complete your work in a google doc and submit a link to your response in your journal entry for this sprint challenge.
+
 ## Template: Decision Defense
 
 Please respond to the following prompts to demonstrate your understanding of product vision planning sessions.
@@ -29,15 +34,15 @@ Describe each phase and how you contributed to it as an engineer. **Please provi
 
 ### Prompt 1
 
-**Product vision document (PVD):** Explain how you contributed to the vision of the product and participated in the planning process. Describe your discussions about the features that would solve the problem outlined in your PVD.
+**Product vision document (PVD):** Explain what you contributed to the vision of the product and how you participated in the planning process. **Provide a screenshot/s of the portions of the PVD to which you contributed.**
 
 ### Prompt 2
 
-**Release canvas/es:** Explain how you researched and discovered the features that your team planned for each release canvas delivered during this unit.
+**Release canvas/es:** Explain what you contributed to your release canvases. **Provide screenshots.**
 
 ### Prompt 3
 
-**Trello & task breakdown:** Describe how you contributed to task breakdown and how you estimated each of your assigned features.
+**Trello & task breakdown:** Describe your contributions to the task breakdown of your Trello board. **Screenshot Trello cards that you made.**
 
 ### Prompt 4
 
@@ -45,11 +50,11 @@ Describe each phase and how you contributed to it as an engineer. **Please provi
 
 ### Prompt 5
 
-**Pull requests:** What was your workflow for submitting your code to your team's repository? **Provide a link to a pull request that you're proud of.**
+**Pull requests:** Show us a piece of your code that you're proud of. **Provide a link to a pull request that you're proud of.**
 
 ### Prompt 6
 
-**Code reviews:** Outline your code review process. Did you have continuous integration set up? How many reviewers reviewed your code? How often did you participate in code reviews?
+**Code reviews:** Describe your team's code-review process. How many reviewers reviewed your pull-request that was screen-shot above? **Link to a Pull-request that you personally reviewed.**
 
 ### Prompt 7
 
@@ -57,7 +62,7 @@ Describe each phase and how you contributed to it as an engineer. **Please provi
 
 ### Prompt 8
 
-**Release to production:** Describe how you shipped features to production. Who gave final approval? Provide screenshots to the individual features you personally contributed to the project.
+**Release to production:** Describe how you shipped features to production. Who gave final approval? **Provide screenshots to the individual features you personally contributed to the project (could be front end or backend code, or screens you built for native mobile).**
 
 ## UX Designers
 
@@ -94,6 +99,8 @@ For each of the following key events or deliverables, describe your contribution
 ## Submitting your work
 
 Please submit a link to your journal entry for this sprint, in the Sprint Retrospective Form. This is to be done every _Friday before Noon_ -- for Full Time -- and before the end of your 2nd '5th' day -- for Part Time -- to be counted as a submission for that sprint.
+
+_Don't forget to submit a link to your *Presentation Script* along with your Journal Entry response_
 
 ## Rubric & Samples
 
