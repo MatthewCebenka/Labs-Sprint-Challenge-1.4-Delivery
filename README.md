@@ -63,31 +63,31 @@ Describe each phase and how you contributed to it as an engineer. **Please provi
 
 For each of the following key events or deliverables, describe your contributions and provide relevant links or screenshots.
 
-### Prompt
+### Prompt 1
 
 **Product vision document (PVD):** Explain your contribution to the product vision and your participation in the planning process. How did you brainstorm process(es) to solve the problem(s) in your PVD?
 
-### Prompt
+### Prompt 2
 
 **Release canvas(es) & user research:** Describe how the design team led the user research and how your findings influenced the release canvases. How did you determine which user research methodologies to use? What did you learn from the user research? What surprised your team?
 
-### Prompt
+### Prompt 3
 
 **Design ideation & exploration:** Describe how you iterated on each feature. What were the most challenging parts of the design process? How did you land on the current design direction(s)? How did usability testing and design critiques guide you?
 
-### Prompt
+### Prompt 4
 
 **Design collaboration:** If you are working with another UX designer, how did you collaborate with each other?
 
-### Prompt
+### Prompt 5
 
 **Design critiques:** Describe your learnings from one design critique session. What did you learn from the critique? How did you implement those learnings into your design work? How did you influence a different project's design direction?
 
-### Prompt
+### Prompt 6
 
-**Design systems:** Describe \*\*\*\*the visual design choices for the product's design system. How did you decide on the color palette and type styles? How has using a design system changed your workflow? Explain how you delivered the design system guidelines to the team.
+**Design systems:** Describe the visual design choices for the product's design system. How did you decide on the color palette and type styles? How has using a design system changed your workflow? Explain how you delivered the design system guidelines to the team.
 
-### Prompt
+### Prompt 7
 
 **Process reflection:** If you could start this project from scratch, what would you do differently? What have you learned from your Labs experience so far?
 
