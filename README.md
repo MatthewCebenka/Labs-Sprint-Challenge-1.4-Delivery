@@ -26,9 +26,9 @@ Please respond to the following prompts to demonstrate your contributions to the
 
 Copy and paste these prompts into a `Google Doc`. Steps on how to create a google doc folder, and how this should look [can be found here](https://www.notion.so/lambdaschool/Labs-Journal-Entry-Submission-Logistics-a6003eb8288b4fd1af0fb40a1a42d278)
 
-## Engineers:
+## Engineers and Data Scientists:
 
-As a Web/iOS student, break down your workflow during this unit. Describe your process and how you individually contributed to the team from planning to delivery.
+As a Web/iOS/DS student, break down your workflow during this unit. Describe your process and how you individually contributed to the team from planning to delivery.
 
 Describe each phase and how you contributed to it as an engineer. **Please provide links or screenshots where you can.**
 
@@ -47,10 +47,12 @@ Describe each phase and how you contributed to it as an engineer. **Please provi
 ### Prompt 4
 
 **Local environment:** Elaborate on your local environment set up. What problems came up during your local development environment set up? How did you overcome them?
+**Local environments for DS students could mean:** pipenv, virtualenv, docker, or k8 clusters. How have you utilized tools to ensure reproducibility when your product is deployed? How do packages and dependencies get loaded into your hosted environment?
 
 ### Prompt 5
 
 **Pull requests:** Show us a piece of your code that you're proud of. **Provide a link to a pull request that you're proud of.**
+**For DS Students:** if you haven't made a pull request, provide a link to the commits you have made to the repo. If you have not been working on code directly, expand on what other aspects of the project you have focused on.
 
 ### Prompt 6
 
