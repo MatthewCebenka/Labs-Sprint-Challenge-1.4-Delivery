@@ -18,7 +18,19 @@ We have allocated time on your schedule to ensure that you get this done at the 
 ## Unit 1 Presentation Script (Non-UX Students Only):
 
 This needs to be completed along with your Journal Entry for the Unit.
-[Here is a link to the prompt for the script](https://www.notion.so/lambdaschool/Unit-1-Presentation-Script-4e2ef6551424417bb3c3b2a4406a272d). Complete your work in a google doc and submit a link to your response in your journal entry for this sprint challenge.
+[Here is a link to the prompt for the script](https://www.notion.so/lambdaschool/Unit-1-Presentation-Script-4e2ef6551424417bb3c3b2a4406a272d). Complete your work in a google doc and submit a link to your response in your journal entry for this sprint challenge. The prompts are also copied below:
+
+**Describe the problem you tried to solve.**
+
+**Describe at a high level what your application does.**
+
+**Describe how you divided up work on your team.**
+
+**Describe the features  you specifically contributed and how you built it.**
+
+**Describe the hardest technical aspect of this project so far and you overcame it.**
+
+**What technical decisions would you have done differently in this project, reflecting back?**
 
 ## Template: Contribution Entry
 
