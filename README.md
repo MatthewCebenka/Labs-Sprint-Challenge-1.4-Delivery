@@ -12,25 +12,8 @@ You are not allowed to collaborate during the Journal Entry. However, you are en
 
 We have allocated time on your schedule to ensure that you get this done at the end of each sprint.
 
-- For Full Time Students: Please submit your work on this journal entry before 12pm PST every Friday.
+- For Full Time Students: Please submit your work on this journal entry before 11am PST Friday.
 - For Part Time Students: Please submit your work on this journal entry before the end of your B-Week Thursday class period.
-
-## Unit 1 Presentation Script (Non-UX Students Only):
-
-This needs to be completed along with your Journal Entry for the Unit.
-[Here is a link to the prompt for the script](https://www.notion.so/lambdaschool/Unit-1-Presentation-Script-4e2ef6551424417bb3c3b2a4406a272d). Complete your work in a google doc and submit a link to your response in your journal entry for this sprint challenge. The prompts are also copied below:
-
-**Describe the problem you tried to solve.**
-
-**Describe at a high level what your application does.**
-
-**Describe how you divided up work on your team.**
-
-**Describe the features  you specifically contributed and how you built it.**
-
-**Describe the hardest technical aspect of this project so far and you overcame it.**
-
-**What technical decisions would you have done differently in this project, reflecting back?**
 
 ## Template: Contribution Entry
 
@@ -119,7 +102,5 @@ _Don't forget to submit a link to your *Presentation Script* along with your Jou
 ## Rubric & Samples
 
 [Here is a link to the rubric](https://www.notion.so/lambdaschool/Unit-1-Rubric-b7b86fc8fa5d4a578739ca63072a5b13) that will be used to assess your answers to the prompts. _Use this as a guide_ as you craft your responses.
-
-[Here is a link to a sample submission for the presentation script](https://www.notion.so/lambdaschool/Unit-1-Presentation-Script-a1648f4787664ade99bb01828cfbbe40) that you can use for inspiration.
 
 [Here is a link to a sample submission for the contribution entry](https://www.notion.so/lambdaschool/1-4-Contribution-Entry-Delivery-3a1f230d67824ae2bf5d18c91eca0f5c) that you can use for inspiration.
