@@ -30,19 +30,22 @@ Describe each phase and how you contributed to it as an engineer. **Please provi
 ### Prompt 1
 
 **Product vision document (PVD):** Explain what you contributed to the vision of the product and how you participated in the planning process. **Provide a screenshot/s of the portions of the PVD to which you contributed.**
+I proposed the use of material ui for a refactoring of some unresponsive parts of the site. I always researched graphic mapping libraries and settled on the use of Ant L7. These were contributions to the technical spec.
 
 ### Prompt 2
 
 **Release canvas/es:** Explain what you contributed to your release canvases. **Provide screenshots.**
-
+I contributed to every card in the release canvas. My main focus was card two and four "Display Fixes and Social Media" and "Map Integration". I also presented card two during our group release canvas presentation to Parth. I also heavily focused on wording and grammar fixes to every release canvas card.
 ### Prompt 3
 
 **Trello & task breakdown:** Describe your contributions to the task breakdown of your Trello board. **Screenshot Trello cards that you made.**
+I have made atleast 4 or 5 trello cards. I have included pictures of bugs that I am working on or additions I am going to make to the UI. 
 
 ### Prompt 4
 
-**Local environment:** Elaborate on your local environment set up. What problems came up during your local development environment set up? How did you overcome them?
+**Local environment:** Elaborate on your local environment set up. What problems came up during your local development environment set up? How did you overcome them? 
 **Local environments for DS students could mean:** pipenv, virtualenv, docker, or k8 clusters. How have you utilized tools to ensure reproducibility when your product is deployed? How do packages and dependencies get loaded into your hosted environment?
+I am using visual studio code with yarn for package management. I have not run into any problems with it so far. 
 
 ### Prompt 5
 
@@ -52,14 +55,18 @@ Describe each phase and how you contributed to it as an engineer. **Please provi
 ### Prompt 6
 
 **Code reviews:** Describe your team's code-review process. How many reviewers reviewed your pull-request that was screen-shot above? **Link to a Pull-request that you personally reviewed.**
+We always have atleast two reviewers. Someone will pull a branch down to their local environment and test to make sure the repo works there. We will then look over the code together and make sure everything makes sense.
 
 ### Prompt 7
 
 **Quality assurance:** How did you test your product's features in a real-world environment? Describe the staging environment process for your team.
+Other than testing it on a local server not much. Once the code is pushed to master it is automatically updating a automatic deploy which is hosted using aws. Once it is there we can look at the changes and make sure everything is as it should be.
 
 ### Prompt 8
 
 **Release to production:** Describe how you shipped features to production. Who gave final approval? **Provide screenshots to the individual features you personally contributed to the project (could be front end or backend code, or screens you built for native mobile).**
+I always run final changes by my PM and partner. We always review the changes together and test that the code runs on multiple machines before pushing to master. 
+
 
 ## UX Designers
 
